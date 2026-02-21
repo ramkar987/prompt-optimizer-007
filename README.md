@@ -4,7 +4,7 @@ Transforme instruções mal definidas em prompts estruturados e prontos para pro
 
 ## 🛠️ Instalação local
 
-git clone https://github.com/SEU_USUARIO/prompt-optimizer
+git clone https://github.com/ramkar987/prompt-optimizer
 cd prompt-optimizer
 pip install -r requirements.txt
 streamlit run app.py
